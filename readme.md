@@ -2,9 +2,14 @@ Using Git:
 After you make changes
 !!Make sure your terminal is on the current project TikTacToe. use "pwd" command in terminal to check the current directory.
 
+For adding changes to github:
 - git add . (this adds all the files to the stage, it's like airport transit)
 - git commit -m "//put comments here, don't leave this empty" (This adds all the changed and compile it, It's like landing at the destination)
 - git push (This updates your git hub repository, It's like recieving your luggages)
+
+
+For working with branched:
+- git checkout "branch name" 
 
 
 
