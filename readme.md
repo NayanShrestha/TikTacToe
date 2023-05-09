@@ -11,6 +11,13 @@ For adding changes to github:
 For working with branched:
 - git checkout "branch name" 
 
+For pulling objects from github repository to local directory:
+- git fetch
+- git pull
+
+Merging branches:
+
+
 
 
 Intermediate TIC TAC TOE file
