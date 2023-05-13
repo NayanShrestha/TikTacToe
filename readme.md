@@ -27,3 +27,5 @@ How will the gaem look like: The user will be able to play wiht computer or anot
 
 THINGS THAT MIGHT BE HANDY:
 1, Gtk+, a GUI that could be used to make
+
+taught sharzil github 
